@@ -16,4 +16,4 @@ In this exercise, you will be expanding on your previous assignment with React C
     - Use different values for the props and watch the difference on the screen.
 
 3. Your solution should look as follows:
-[exemplar](exemplar.png)
+![exemplar](exemplar.png)
